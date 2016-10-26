@@ -1,0 +1,9 @@
+c:\users\tjenkins20\documents\visual studio 2015\Projects\TicTacToeSimulator\TicTacToeSimulator\bin\Debug\TicTacToeSimulator.exe.config
+c:\users\tjenkins20\documents\visual studio 2015\Projects\TicTacToeSimulator\TicTacToeSimulator\bin\Debug\TicTacToeSimulator.exe
+c:\users\tjenkins20\documents\visual studio 2015\Projects\TicTacToeSimulator\TicTacToeSimulator\bin\Debug\TicTacToeSimulator.pdb
+c:\users\tjenkins20\documents\visual studio 2015\Projects\TicTacToeSimulator\TicTacToeSimulator\obj\Debug\TicTacToeSimulator.csprojResolveAssemblyReference.cache
+c:\users\tjenkins20\documents\visual studio 2015\Projects\TicTacToeSimulator\TicTacToeSimulator\obj\Debug\TicTacToeSimulator.TicTacToe.resources
+c:\users\tjenkins20\documents\visual studio 2015\Projects\TicTacToeSimulator\TicTacToeSimulator\obj\Debug\TicTacToeSimulator.Properties.Resources.resources
+c:\users\tjenkins20\documents\visual studio 2015\Projects\TicTacToeSimulator\TicTacToeSimulator\obj\Debug\TicTacToeSimulator.csproj.GenerateResource.Cache
+c:\users\tjenkins20\documents\visual studio 2015\Projects\TicTacToeSimulator\TicTacToeSimulator\obj\Debug\TicTacToeSimulator.exe
+c:\users\tjenkins20\documents\visual studio 2015\Projects\TicTacToeSimulator\TicTacToeSimulator\obj\Debug\TicTacToeSimulator.pdb
